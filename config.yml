@@ -1,0 +1,46 @@
+baseURL: "https://joshaustin.tech/"
+languageCode: "en-us"
+title: "Joshua Austin"
+theme: "PaperMod"
+
+menu:
+  main:
+    - name: Home
+      url: "/"
+      weight: 1
+    - name: CV
+      url: "/curriculum-vitae/"
+      weight: 2
+    - name: Search
+      url: "/search/"
+      weight: 3
+    - name: Archives
+      url: "/archives/"
+      weight: 4
+
+params:
+  defaultTheme: dark
+  disableThemeToggle: "https://twitter.com/joshaustintech"
+  env: production
+
+  homeInfoParams:
+    Title: "Hi there! 💙☕️🍃🦀"
+    Content: >
+      I'm a software engineer in the Chicagoland region with an emphasis on Java and Spring Boot. In my free time I like to try Rust and other programming languages.
+
+  socialIcons:
+  - name: github
+    url: "https://github.com/joshaustintech"
+  - name: twitter
+    url: "https://twitter.com/joshaustintech"
+  - name: mastodon
+    url: "https://joshaustin.xyz/@josh"
+  - name: linkedin
+    url: "https://linkedin.com/in/joshaustintech"
+  - name: rss
+    url: "/index.xml"
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
