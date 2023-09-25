@@ -4,37 +4,37 @@ title: "Curriculum Vitae"
 
 # Top Skills
 - **Java**
-- **Spring Boot**
 - **Rust**
 - **SQL**
 - **REST APIs**
+- **Spring Boot**
 - **Kafka**
 
 # Summary
-I'm a dedicated JVM backend developer with an obsession for delivering quality and value.
+I'm a senior backend developer with an obsession for delivering quality and value.
 
 I rebooted my career in 2018 after a stint in the non-profit space. Since then, I have worked in consulting, grocery delivery, and global supply chain.
 
 My work since 2018 has been primarily building with Spring Boot to connect with databases (SQL & NoSQL), REST APIs, and/or Kafka. I write code that is resilient, scalable, and reduces technical debt. Most importantly, I like to obsess over the customer experience and make sure that I'm delivering what the customer needs.
 
-Some of my code has very high business impact, including value multipliers because they bring significant recurring revenue. I have also secured significant revenue by providing mission-critical support during emergencies.
+My code has very high business impact, including value multipliers that bring significant recurring revenue. I have also secured significant revenue by providing mission-critical support during emergencies.
+
+I am open to remote Java and Rust developer roles in the United States.
 
 Additional technical skills include:
 - **Software Architecture** (Monoliths, Microservices, Moduliths)
 - **Containers** (Docker, Docker Compose)
-- **Cloud** (AWS EC2, AWS Lambda, Google Cloud)
+- **Cloud** (AWS, Google Cloud, DigitalOcean)
 - **Unit and Integration Testing** (JUnit, Spock, TestNG)
 - **Software Supply Chain** (Maven, Gradle, Artifactory)
 - **Security** (OWASP, Spring Security)
 - **Alternative JVM Languages** (Kotlin, Groovy, Jython)
-- **Frontend Development** (TypeScript, React, jQuery)
-- **Web Solutions Engineering** (Linux, Apache, MySQL, PHP, HTML, CSS, JavaScript)
-- **Content Manager Development** (WordPress, Hugo)
+- **Web Development** (React, WordPress, LAMP, HTML, CSS, JavaScript)
 - **Code Repositories** (GitHub, BitBucket, GitLab)
 - **CI/CD** (Jenkins, GitHub Actions)
-- **Design Patterns**
-- **Best Practices**
-- **Blockchain**
+- **Design Patterns** (Factory, Singleton, etc.)
+- **Blockchain** (Ethereum, Solidity, Web3.js)
+- **Best Practices** (Prefer composition over inheritance, etc.)
 
 # Recent Work Experience
 
