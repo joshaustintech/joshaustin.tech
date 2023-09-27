@@ -26,7 +26,7 @@ params:
   homeInfoParams:
     Title: "Hi! 👋 I'm Josh."
     Content: >
-      I'm a senior backend developer in the Chicagoland region. I am [currently open to remote-only opportunities working in Java or Rust](https://www.linkedin.com/in/joshaustintech/).
+      I'm a senior backend developer in the Chicagoland region. I am [open to remote-only opportunities](https://www.linkedin.com/in/joshaustintech/).
 
   socialIcons:
   - name: github

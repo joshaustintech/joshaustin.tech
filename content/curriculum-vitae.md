@@ -4,11 +4,10 @@ title: "Curriculum Vitae"
 
 # Top Skills
 - **Java**
-- **Rust**
+- **Spring Boot**
 - **SQL**
 - **REST APIs**
-- **Spring Boot**
-- **Kafka**
+
 
 # Summary
 I'm a senior backend developer with an obsession for delivering quality and value.
@@ -19,9 +18,11 @@ My work since 2018 has been primarily building with Spring Boot to connect with 
 
 My code has very high business impact, including value multipliers that bring significant recurring revenue. I have also secured significant revenue by providing mission-critical support during emergencies.
 
-I am open to remote Java and Rust developer roles in the United States.
+I am open to remote developer roles in the United States.
 
 Additional technical skills include:
+- **Rust**
+- **Kafka**
 - **Software Architecture** (Monoliths, Microservices, Moduliths)
 - **Containers** (Docker, Docker Compose)
 - **Cloud** (AWS, Google Cloud, DigitalOcean)
@@ -29,7 +30,9 @@ Additional technical skills include:
 - **Software Supply Chain** (Maven, Gradle, Artifactory)
 - **Security** (OWASP, Spring Security)
 - **Alternative JVM Languages** (Kotlin, Groovy, Jython)
-- **Web Development** (React, WordPress, LAMP, HTML, CSS, JavaScript)
+- **Databases** (MySQL, PostgreSQL, Oracle, Microsoft SQL Server, MongoDB)
+- **Frontend Development** (React, TypeScript, Jest, Playwright)
+- **Web Development** (WordPress, LAMP, HTML, CSS, JavaScript)
 - **Code Repositories** (GitHub, BitBucket, GitLab)
 - **CI/CD** (Jenkins, GitHub Actions)
 - **Design Patterns** (Factory, Singleton, etc.)
