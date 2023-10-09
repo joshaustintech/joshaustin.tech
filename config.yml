@@ -20,19 +20,18 @@ menu:
 
 params:
   defaultTheme: dark
-  disableThemeToggle: "https://twitter.com/joshaustintech"
   env: production
 
   homeInfoParams:
     Title: "Hi! 👋 I'm Josh."
     Content: >
-      I'm a senior backend developer in the Chicagoland region. I am [open to remote-only opportunities](https://www.linkedin.com/in/joshaustintech/).
+      I'm a senior developer in the Chicagoland region. I am [open to remote-only opportunities](https://www.linkedin.com/in/joshaustintech/).
 
   socialIcons:
   - name: github
     url: "https://github.com/joshaustintech"
   - name: mastodon
-    url: "https://joshaustin.xyz/@josh"
+    url: "https://iosdev.space/@josh"
   - name: linkedin
     url: "https://linkedin.com/in/joshaustintech"
   - name: rss
