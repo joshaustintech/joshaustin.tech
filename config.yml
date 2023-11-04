@@ -3,6 +3,11 @@ languageCode: "en-us"
 title: "Josh Austin"
 theme: "PaperMod"
 
+deployment:
+  targets:
+  - name: "production"
+    URL: "s3://joshaustin.com?region=us-east-1"
+
 menu:
   main:
     - name: Home
