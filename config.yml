@@ -13,24 +13,26 @@ menu:
     - name: Home
       url: "/"
       weight: 1
-    - name: CV
-      url: "/curriculum-vitae/"
-      weight: 2
     - name: Search
       url: "/search/"
-      weight: 3
-    - name: Archives
+      weight: 2
+    - name: Archive
       url: "/archives/"
+      weight: 3
+    - name: Tags
+      url: "/tags/"
       weight: 4
 
 params:
   defaultTheme: dark
   env: production
 
-  homeInfoParams:
-    Title: "Joshua Austin"
-    Content: >
-      Senior developer. AWS explorer. AI enthusiast. Eternal student. Done is better than perfect.
+  profileMode:
+        enabled: true
+        imageUrl: "/images/1700289532309.jpeg"
+        imageTitle: "Profile picture of a cool-looking yellow robot."
+        imageWidth: 256
+        imageHeight: 256
 
   socialIcons:
   - name: github
