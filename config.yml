@@ -28,6 +28,9 @@ params:
   env: production
 
   profileMode:
+        subtitle: >
+          ## Senior developer. AWS explorer. AI enthusiast.
+          Eternal student. Done is better than perfect.
         enabled: true
         imageUrl: "/images/1700289532309.jpeg"
         imageTitle: "Profile picture of a cool-looking yellow robot."
