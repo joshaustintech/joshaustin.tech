@@ -28,15 +28,15 @@ params:
   env: production
 
   homeInfoParams:
-    Title: "Hi! 👋 I'm Josh."
+    Title: "Joshua Austin"
     Content: >
-      I'm a senior developer in the Chicagoland region. I am [open to remote-only opportunities](https://www.linkedin.com/in/joshaustintech/).
+      Senior developer. AWS explorer. AI enthusiast. Eternal student. Done is better than perfect.
 
   socialIcons:
   - name: github
     url: "https://github.com/joshaustintech"
-  - name: mastodon
-    url: "https://iosdev.space/@josh"
+  - name: stackoverflow
+    url: "https://stackoverflow.com/users/2005984/josh-austin"
   - name: linkedin
     url: "https://linkedin.com/in/joshaustintech"
   - name: rss
