@@ -16,26 +16,19 @@ menu:
     - name: Search
       url: "/search/"
       weight: 2
-    - name: Archive
-      url: "/archives/"
-      weight: 3
     - name: Tags
       url: "/tags/"
-      weight: 4
+      weight: 3
 
 params:
   defaultTheme: dark
   env: production
 
-  profileMode:
-        subtitle: >
+  homeInfoParams:
+        title: Josh Austin
+        content: >
           ## Senior developer. AWS explorer. AI enthusiast.
           Eternal student. Done is better than perfect.
-        enabled: true
-        imageUrl: "/images/yellow robot 4.jpg"
-        imageTitle: "Profile picture of a cool-looking yellow robot."
-        imageWidth: 256
-        imageHeight: 256
 
   socialIcons:
   - name: github
