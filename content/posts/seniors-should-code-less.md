@@ -3,9 +3,6 @@ title: "Seniors Should Code Less"
 date: 2023-07-13T00:00:00-05:00
 tags: ["business", "value"]
 summary: "Thinking more and bringing value to the team is still hard work that should be rewarded."
-cover:
-    image: "images/undraw_teamwork_hpdk.png"
-    alt: "drawing of two women collaborating as a good team"
 ---
 
 Recently, Jozef Antony [wrote](https://www.linkedin.com/feed/update/urn:li:activity:7083071540296044545/):

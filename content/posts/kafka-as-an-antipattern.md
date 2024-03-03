@@ -3,13 +3,9 @@ title: "Kafka As An Antipattern"
 date: 2023-09-24T09:28:51-05:00
 tags: ["kafka", "java"]
 summary: "We wouldn't tolerate this with a database."
-cover:
-    image: "images/undraw_Notify_re_65on.png"
-    alt: "drawing of a person startled by a warning symbol"
 ---
 
 # Introduction
-
 Kafka is a deceptively deep topic. No pun intended. I've used Kafka in various contexts. I want to cover two experiences
 where I've had two very different outcomes to point out at least one scenario where I believe Kafka is an antipattern.
 

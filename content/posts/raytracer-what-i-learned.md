@@ -3,9 +3,6 @@ title: "What I learned from writing a raytracer in Rust"
 date: 2023-07-22T00:00:00-05:00
 tags: ["rust", "beginner"]
 summary: "Sometimes you learn the most by doing."
-cover:
-    image: "images/undraw_lightbulb_moment_re_ulyo.png"
-    alt: "drawing of a man lighting a light bulb"
 ---
 
 Sometimes you learn the most by doing. That's what I realized yet again when writing [a toy raytracer in Rust](https://github.com/joshaustintech/raytracer) during what little free time I had during paternity leave. I had religiously watched all of the [Rust videos by No Boilerplate](https://www.youtube.com/@NoBoilerplate) and needed to stop watching and start writing. I came across the Peter Shirley's [Raytracer In A Weekend](https://raytracing.github.io) tutorial, written in C++, and decided to try following along and writing it in Rust.

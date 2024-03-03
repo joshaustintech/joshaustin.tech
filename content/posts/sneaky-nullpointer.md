@@ -3,9 +3,6 @@ title: "Those sneaky NullPointerExceptions!"
 date: 2019-06-18T00:00:00-05:00
 tags: ["java", "junit", "spring", "beginner"]
 summary: "Defensive drivers anticipate accidents and bad drivers. This lowers the chances of getting into accidents."
-cover:
-    image: "images/undraw_electric_car_b7hl.png"
-    alt: "drawing of a Tesla car stopped to let a man walk by and admire the car"
 ---
 
 There is a form of driving called "defensive driving". Defensive drivers anticipate accidents and bad drivers. This lowers the chances of getting into accidents. It has saved me from several bad accidents.
