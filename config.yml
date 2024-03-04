@@ -30,9 +30,10 @@ params:
 
   profileMode:
     subtitle: >
-      ### 👨‍💻 Java Architect | 🍎 App dev | 🤖 Private AI advocate
+      👨‍💻 Java Architect | 🍎 App dev | 🤖 Private AI advocate
       
-      ### 👨‍👩‍👧 Husband & dad | ✝️ | 🕊️ for 🇮🇱🇺🇦
+      
+      👨‍👩‍👧 Husband & dad | ✝️ | 🕊️ for 🇮🇱🇺🇦
     enabled: true
     imageUrl: "images/431100755_388523090475232_1555015838056185344_n.jpg" # optional
     imageTitle: "profile picture of Josh Austin in the car wearing sunglasses"
