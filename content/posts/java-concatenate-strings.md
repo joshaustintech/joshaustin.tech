@@ -3,9 +3,6 @@ title: "How to Concatenate Strings in Java like a Pro"
 date: 2023-02-18T01:00:00-05:00
 tags: ["java", "intermediate", "string", "stringbuilder"]
 summary: "String concatenation in Java can be initially tricky, especially if you come from other programming languages."
-cover:
-    image: "images/undraw_Powerful_re_frhr.png"
-    alt: "drawing of a woman wearing a superhero cape"
 ---
 
 String concatenation in Java can be initially tricky, especially if you come from other programming languages. When Java was first implemented, the decision was made to render the `String` class immutable. So what if you have to concatenate two or more strings? I remember being instructed to rely on the `StringBuilder` class like so:

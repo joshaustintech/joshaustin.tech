@@ -3,9 +3,6 @@ title: "Getting Started with RIFE2"
 date: 2023-01-29T00:00:00-05:00
 tags: ["java", "rife2", "gradle", "spring", "web", "beginner"]
 summary: "The web has changed significantly since I started my first developer role. So have web frameworks. So have programming languages!"
-cover:
-    image: "images/undraw_Web_developer_re_h7ie.png"
-    alt: "drawing of a man doing web development"
 ---
 
 # The Vaporous Nature of Web Development
