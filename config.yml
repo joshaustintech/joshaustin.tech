@@ -29,23 +29,20 @@ params:
   env: production
 
   profileMode:
-    subtitle: >
-      👨‍💻 Java Architect | 🍎 App dev | 🤖 Private AI advocate | 👨‍👩‍👧 Husband & dad | ✝️ | 🕊️ for 🇮🇱🇺🇦
+    subtitle: Java, Rust, and Swift developer. Modular synth enthusiast. ☕️🦀🐦🎛️
     enabled: true
-    imageUrl: "images/431100755_388523090475232_1555015838056185344_n.jpg" # optional
-    imageTitle: "profile picture of Josh Austin in the car wearing sunglasses"
+    imageUrl: "images/bafkreih4bpzzf7dr3v6qmc2t4ljx2get3xoklcplwplo7iqx6yjj4mt3u4.jpg" # optional
+    imageTitle: "profile picture of a blue Toad marching from left to right"
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
 
   socialIcons:
   - name: github
     url: "https://github.com/joshaustintech"
-  - name: threads
-    url: "https://threads.net/@joshaustin.tech"
   - name: mastodon
     url: "https://foojay.social/@josh"
-  - name: linkedin
-    url: "https://linkedin.com/in/joshaustintech"
+  - name: telegram
+    url: "https://t.me/joshaustin"
   - name: rss
     url: "/index.xml"
 outputs:
