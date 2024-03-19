@@ -39,6 +39,8 @@ params:
   socialIcons:
   - name: github
     url: "https://github.com/joshaustintech"
+  - name: leetcode
+    url: "https://leetcode.com/joshaustintech/" 
   - name: mastodon
     url: "https://foojay.social/@josh"
   - name: telegram
