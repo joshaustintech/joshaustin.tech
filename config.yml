@@ -29,22 +29,22 @@ params:
   env: production
 
   profileMode:
-    subtitle: Java, Rust, and Swift developer. Modular synth enthusiast. ☕️🦀🐦🎛️
+    subtitle: Java and iOS developer
     enabled: true
-    imageUrl: "images/bafkreih4bpzzf7dr3v6qmc2t4ljx2get3xoklcplwplo7iqx6yjj4mt3u4.jpg" # optional
-    imageTitle: "profile picture of a blue Toad marching from left to right"
+    imageUrl: "images/IMG_0428_compressed.jpg" # optional
+    imageTitle: "profile picture of Josh looking up at the sky"
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
 
   socialIcons:
   - name: github
     url: "https://github.com/joshaustintech"
-  - name: leetcode
-    url: "https://leetcode.com/joshaustintech/" 
+  - name: linkedin
+    url: "https://linkedin.com/in/joshaustintech"
+  - name: threads
+    url: "https://www.threads.net/@joshaustin.tech"
   - name: mastodon
     url: "https://foojay.social/@josh"
-  - name: telegram
-    url: "https://t.me/joshaustin"
   - name: rss
     url: "/index.xml"
 outputs:
