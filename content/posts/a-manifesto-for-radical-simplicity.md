@@ -33,7 +33,7 @@ Instead of resisting change or trying to control every aspect, embrace it as a n
 Ultimately, your software will likely be used by humans (with some exceptions). If stakeholders insist on complexity that makes a process too rigid, make sure the feature has an "escape hatch" or "override" to give agency back to humans.
 
 # 6. Embrace complexity, shun complications.
-Just because something isn't simple doesn’t mean you can’t make it simple for the end user. But if a solution is unnecessarily complicated, fight it. Kill complications with fire, before they kill your business!
+Just because something isn't simple doesn’t mean you can’t make it simple for the end user. But if a solution is unnecessarily complicated, fight it. Complication is complexity that isn't needed to accomplish your goal when lesser or no complexity will accomplish the same thing. Kill complications with fire, before they kill your business!
 
 ---
 
