@@ -8,7 +8,7 @@ summary: "Radical Simplicity is about cutting through the noise, focusing on wha
 
 These are my personal theories on software delivery with an emphasis on achieving higher efficacy without the pitfalls of imaginary and subjective metrics (story points, T-shirt sizes, etc.) that are endemic to the software industry.
 
-Because these imaginary metrics can (and have) led to unnecessary stress and questionable business practives, I firmly believe that the software industry cannot deliver more and increase employee inclusivity until the industry sheds imaginary metrics in favor of making the software delivery process as simple as possible without sacrificing stakeholder needs. Once this happens, software teams will achieve a great net win-win.
+Because these imaginary metrics can (and have) led to unnecessary stress and questionable business practices, I firmly believe that the software industry cannot maximize employee inclusivity, and in turn employee loyalty, until the industry sheds imaginary metrics in favor of making the software delivery process as unencumbered as possible without sacrificing stakeholder needs. Once this happens, software teams will achieve a great net win-win.
 
 I know some of these ideas may be counter to what has worked well for many of you, and that there is the possibility that I will even consider myself wrong about some of these core tenets down the road. However, I believe that if I am going to exemplify what needs to be changed in the software industry, I need to attempt to articulate it. This is my first attempt to do so.
 
