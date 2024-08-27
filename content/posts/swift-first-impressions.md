@@ -5,7 +5,7 @@ tags: ["swift", "swiftui", "beginner"]
 summary: "I'm investing heavily in Swift as my next programming language."
 ---
 
-In recent years, I've become increasingly concerned about the complexities of poorly thought-out software supply chains. This is especially true for platforms like NodeJS and Spring. I believe the software engineering industry is reaching a point where third-party code will face more scrutiny. As a result, some development teams might choose to create and maintain in-house solutions rather than continuously validate every third-party dependency for every small change.
+In recent years, I've become increasingly concerned about the complexities of poorly thought-out software supply chains. This is especially true for the likes of NodeJS and Spring. I believe the software engineering industry is reaching a point where third-party code will face more scrutiny. As a result, some development teams might choose to create and maintain in-house solutions rather than continuously validate every third-party dependency for every small change.
 
 I also believe that the React family of JavaScript frameworks has introduced unnecessary third-party bloat and overly complex frontend solutions. While there is value in creating UI components for a consistent user experience, do we really need so much third-party code to achieve this? With the trend of frontend frameworks rendering on the server side, we should ask, "Why are we embracing this complexity when simpler server-side tools worked just fine before?"
 

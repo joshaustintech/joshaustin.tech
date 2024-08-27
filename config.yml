@@ -29,10 +29,10 @@ params:
   env: production
 
   profileMode:
-    subtitle: Java and iOS developer
+    subtitle: Java Developer Journeyman
     enabled: true
-    imageUrl: "images/IMG_0428_compressed.jpg" # optional
-    imageTitle: "profile picture of Josh looking up at the sky"
+    imageUrl: "images/1qGlcM8A.png"
+    imageTitle: "professional black and white headshot of Josh"
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
 
@@ -41,8 +41,6 @@ params:
     url: "https://github.com/joshaustintech"
   - name: linkedin
     url: "https://linkedin.com/in/joshaustintech"
-  - name: threads
-    url: "https://www.threads.net/@joshaustin.tech"
   - name: mastodon
     url: "https://foojay.social/@josh"
   - name: rss
