@@ -29,9 +29,9 @@ params:
   env: production
 
   profileMode:
-    subtitle: Java Developer Journeyman
+    subtitle: Backend Developer • Mobile Developer • Game Developer
     enabled: true
-    imageUrl: "images/1qGlcM8A.png"
+    imageUrl: "images/iron_man.jpeg"
     imageTitle: "professional black and white headshot of Josh"
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
@@ -41,8 +41,12 @@ params:
     url: "https://github.com/joshaustintech"
   - name: linkedin
     url: "https://linkedin.com/in/joshaustintech"
+  - name: itchio
+    url: "https://joshaustintech.itch.io"
   - name: mastodon
     url: "https://foojay.social/@josh"
+  - name: signal
+    url: "https://signal.me/#eu/oUVEExBVA6r7TkIOqfKaVm3aI1LUDIWOvemFFyWi1hzpltJe-dNNGozo0XCROnmT"
   - name: rss
     url: "/index.xml"
 outputs:
