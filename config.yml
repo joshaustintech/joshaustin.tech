@@ -29,7 +29,7 @@ params:
   env: production
 
   profileMode:
-    subtitle: Backend Developer • Mobile Developer • Game Developer
+    subtitle: Software Engineer • Game Developer • Musician
     enabled: true
     imageUrl: "images/iron_man.jpeg"
     imageTitle: "professional black and white headshot of Josh"
@@ -41,6 +41,8 @@ params:
     url: "https://github.com/joshaustintech"
   - name: linkedin
     url: "https://linkedin.com/in/joshaustintech"
+  - name: bandcamp
+    url: https://joshaustintech.bandcamp.com
   - name: itchio
     url: "https://joshaustintech.itch.io"
   - name: mastodon
