@@ -29,10 +29,10 @@ params:
   env: production
 
   profileMode:
-    subtitle: Software Engineer • Game Developer • Musician
+    subtitle: Senior Software Engineer
     enabled: true
-    imageUrl: "images/iron_man.jpeg"
-    imageTitle: "professional black and white headshot of Josh"
+    imageUrl: "images/anime.jpeg"
+    imageTitle: "AI anime depiction of Josh"
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
 
@@ -41,10 +41,8 @@ params:
     url: "https://github.com/joshaustintech"
   - name: linkedin
     url: "https://linkedin.com/in/joshaustintech"
-  - name: bandcamp
-    url: https://joshaustintech.bandcamp.com
-  - name: itchio
-    url: "https://joshaustintech.itch.io"
+  - name: youtube
+    url: "https://youtube.com/@ObjectSanctuary"
   - name: mastodon
     url: "https://foojay.social/@josh"
   - name: signal
