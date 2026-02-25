@@ -11,15 +11,12 @@ menu:
     - name: Posts
       url: "/blog"
       weight: 2
-    - name: Resumé
-      url: "/resume/"
-      weight: 3
     - name: Search
       url: "/search/"
-      weight: 4
+      weight: 3
     - name: Tags
       url: "/tags/"
-      weight: 5
+      weight: 4
 
 permalinks:
   page:
@@ -32,13 +29,17 @@ params:
   env: production
 
   profileMode:
-    subtitle: Senior Software Engineer
+    subtitle: 💎 Rails Matchmaker · I deliver proven US Ruby Engineers · ChicagoRuby Co-Organizer
     enabled: true
-    imageUrl: "images/anime.jpeg"
-    imageTitle: "AI anime depiction of Josh"
-    imageWidth: 256 # custom size
-    imageHeight: 256 # custom size
-
+    imageUrl: "images/square_profile_image.png"
+    imageTitle: "AI headshot of Josh in downtown Chicago"
+    imageWidth: 256
+    imageHeight: 256
+    buttons:
+    - name: Book a Call ($20 USD)
+      url: "https://calendly.com/joshaustintech/30-minute-meeting"
+    - name: Book a Job Search Booster (US Citizens & Green Card Only) ($300 USD)
+      url: "https://calendly.com/joshaustintech/interview-prep"
   socialIcons:
   - name: github
     url: "https://github.com/joshaustintech"
@@ -46,10 +47,6 @@ params:
     url: "https://linkedin.com/in/joshaustintech"
   - name: youtube
     url: "https://youtube.com/@ObjectSanctuary"
-  - name: mastodon
-    url: "https://foojay.social/@josh"
-  - name: signal
-    url: "https://signal.me/#eu/oUVEExBVA6r7TkIOqfKaVm3aI1LUDIWOvemFFyWi1hzpltJe-dNNGozo0XCROnmT"
   - name: rss
     url: "/index.xml"
 outputs:
