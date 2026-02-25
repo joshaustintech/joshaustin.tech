@@ -31,13 +31,15 @@ of SQL databases (and some Kafka) since late 2018.
 Having all the tools I needed out of the box was simultaneously refreshing and a little
 intimidating! Thankfully, I had a great team lead that showed me the ropes and set me on
 the path to delivering small production-ready features for
-[BzzAgent](https://bzzagent.com/), a site serving over 1M users and bringing in a revenue
-of $22.4M.
+[BzzAgent](https://bzzagent.com/), a site serving over 1M users and bringing in a reported
+revenue of $22.4M in 2025.
 
 After 6 months, it was time to return to working with Spring again, but something changed
-for me. Having so many things out of the box, observing the consistent placement of files
-and folders, and having someone enforce good coding discipline resulted in working with a
-system as a whole from a single Git repo.
+for me. Working with an entire system as a whole from a single Git repo was a welcome
+change from working on a galaxy of microservices and not-so-micro services. Like Spring,
+there were typically built-in functions and patterns for the majority of easily solved
+problems. Unlike Spring, the features I need the most come out of the box: webpages,
+APIs, DB migrations, queues, testing, and more!
 
 ## Living in the Pax Railsana
 
