@@ -53,11 +53,11 @@ Ruby language by itself and the Ruby on Rails framework, which remains their
 ["killer app"](https://en.wikipedia.org/wiki/Killer_application) though by no means the
 only reason to use Ruby.
 
-The common thread from watching RailsWorld 2025 on YouTube and attending XORuby's Chicago
-event in the same year has increased my appetite for the value of building systems with
-deliberately compressed complexity as a design choice. Since then, I've grown more
-involved with [ChicagoRuby](https://chicagoruby.org/) and have become a co-organizer as
-of this week.
+The common thread from watching RailsWorld 2025 on YouTube and attending
+[XORuby](https://www.xoruby.com/events/)'s Chicago event in the same year has increased
+my appetite for the value of building systems with compressed complexity as a design
+choice. Since then, I've grown more involved with [ChicagoRuby](https://chicagoruby.org/)
+and have become a co-organizer as of this week.
 
 ## Conclusion
 
